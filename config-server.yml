@@ -1,2 +1,4 @@
 server:
   port: 8760
+image:
+  split: 4
